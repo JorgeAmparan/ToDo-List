@@ -79,6 +79,6 @@ code {
     width: 100px;
     height: 95px;
     margin-right: 16px;
-    background-image: url('/images/calendario2.png');
+    background-image: url('https://github.com/JorgeAmparan/todo-list/blob/main/images/calendario2.png');
     background-size: 100px;
 }
