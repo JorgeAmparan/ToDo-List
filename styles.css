@@ -58,7 +58,7 @@ code {
 }
 
 .close {
-    background-image: url('../../images/eliminar2.png');
+    background-image: url('https://jorgeamparan.github.io/todo-list/images/eliminar2.png');
     background-size: 28px;
     background-repeat: no-repeat;
     background-position: center;
@@ -79,6 +79,6 @@ code {
     width: 100px;
     height: 95px;
     margin-right: 16px;
-    background-image: url('../../images/calendario2.png');
+    background-image: url('https://jorgeamparan.github.io/todo-list/images/calendario2.png');
     background-size: 100px;
 }
