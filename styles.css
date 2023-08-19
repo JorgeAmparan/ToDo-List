@@ -58,7 +58,7 @@ code {
 }
 
 .close {
-    background-image: url('https://github.com/JorgeAmparan/todo-list/blob/67e9f20c433867ad48c14faf4bbbdb91b8207e66/images/eliminar2.png');
+    background-image: url('../images/eliminar2.png');
     background-size: 28px;
     background-repeat: no-repeat;
     background-position: center;
@@ -79,6 +79,6 @@ code {
     width: 100px;
     height: 95px;
     margin-right: 16px;
-    background-image: url('https://github.com/JorgeAmparan/todo-list/blob/8963e30ae7ae9caff9749cc0396dc89293f2e3a5/images/calendario2.png');
+    background-image: url('../images/calendario2.png');
     background-size: 100px;
 }
