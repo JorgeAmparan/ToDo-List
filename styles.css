@@ -58,7 +58,7 @@ code {
 }
 
 .close {
-    background-image: url('/images/eliminar2.png');
+    background-image: url('https://github.com/JorgeAmparan/todo-list/blob/67e9f20c433867ad48c14faf4bbbdb91b8207e66/images/eliminar2.png');
     background-size: 28px;
     background-repeat: no-repeat;
     background-position: center;
